@@ -1,0 +1,160 @@
+,sub_class,class,count
+0,Light Domain,Cleric,66
+1,Samurai,Fighter,52
+2,Path of the Totem Warrior,Barbarian,143
+3,Way of the Drunken Master,Monk,53
+4,The Fiend,Warlock,95
+5,Oath of Conquest,Paladin,63
+6,Circle of the Shepherd,Druid,48
+7,Oath of Devotion,Paladin,79
+8,Inquisitive,Rogue,54
+9,Way of the Four Elements,Monk,31
+10,Graviturgy,Wizard,3
+11,College of Glamour,Bard,85
+12,Tempest Domain,Cleric,83
+13,Way of the Open Hand,Monk,92
+14,Death Domain,Cleric,36
+15,Assassin,Rogue,171
+16,Path of the Berserker,Barbarian,123
+17,Way of the Long Death,Monk,22
+18,Way of the Sun Soul,Monk,32
+19,Path of the Storm Herald,Barbarian,40
+20,Forge Domain,Cleric,70
+21,Draconic Bloodline,Sorcerer,114
+22,The Celestial,Warlock,70
+23,School of Evocation,Wizard,82
+24,The Great Old One,Warlock,111
+25,Life Domain,Cleric,208
+26,Storm Sorcery,Sorcerer,60
+27,School of Illusion,Wizard,30
+28,Circle of the Moon,Druid,177
+29,Way of the Kensei,Monk,44
+30,Oath of Vengeance,Paladin,86
+31,OathBreaker,Paladin,27
+32,Knowledge Domain,Cleric,39
+33,Champion,Fighter,226
+34,School of Necromancy,Wizard,46
+35,Trickery Domain,Cleric,41
+36,Beast Master,Ranger,86
+37,Eldritch Knight,Fighter,118
+38,Circle of Dreams,Druid,34
+39,Thief,Rogue,94
+40,Mandalorian,Fighter,1
+41,School of Divination,Wizard,55
+42,Path of the Battlerager,Barbarian,31
+43,Circle of Spores,Druid,29
+44,School of Enchantment,Wizard,26
+45,Wild Magic,Sorcerer,139
+46,Battle Master,Fighter,203
+47,Circle of the Land,Druid,54
+48,Order of the Immortal,Mystic,3
+49,War Domain,Cleric,66
+50,Oath of Ancients,Paladin,63
+51,The Hexblade,Warlock,195
+52,The Undying,Warlock,29
+53,Hunter,Ranger,119
+54,Order of the Awakened,Mystic,2
+55,Gunsmith,Artificer,5
+56,Arcana Domain,Cleric,25
+57,Arcane Trickster,Rogue,111
+58,Shadow Magic,Sorcerer,75
+59,College of Swords,Bard,44
+60,Oath of Redemption,Paladin,24
+61,Lore Mastery,Wizard,3
+62,Arcane Archer,Fighter,60
+63,Battle Smith,Artificer,28
+64,College of Whispers,Bard,43
+65,Path of the Ancestral Guardian,Barbarian,54
+66,Swashbuckler,Rogue,109
+67,College of Valor,Bard,39
+68,Gloom Stalker,Ranger,58
+69,Circle of Twilight,Druid,2
+70,Path of the Limit Breaker,Barbarian,1
+71,Order of the Wu Jen,Mystic,2
+72,School of Transmutation,Wizard,30
+73,School of Conjuration,Wizard,28
+74,Alchemist,Artificer,15
+75,Artillerist,Artificer,36
+76,The Archfey,Warlock,55
+77,Purple Dragon Knight,Fighter,27
+78,School of Abjuration,Wizard,33
+79,Path of the Zealot,Barbarian,41
+80,Order of the Soul Knife,Mystic,2
+81,College of Eloquence,Bard,9
+82,Way of Shadow,Monk,52
+83,Order of the Profane Soul,Blood Hunter,1
+84,Monster Slayer,Revised Ranger,47
+85,Gunslinger,Fighter,5
+86,Order of the Ghostslayer,Blood Hunter,6
+87,Armorer,Artificer,3
+88,Chronurgy,Wizard,7
+89,College of Lore,Bard,131
+90,Scout,Rogue,62
+91,Oath of the Crown,Paladin,26
+92,Horizon Walker,Ranger,23
+93,Cavalier,Fighter,20
+94,Mastermind,Rogue,43
+95,Circle of spores,Druid,1
+96,Aberrant Mind,Sorcerer,9
+97,Path of the Beast,Barbarian,7
+98,Soulknife,Rogue,1
+99,Phoenix,Sorcerer,8
+100,Desperado,Gunslinger,2
+101,Grave Domain,Cleric,46
+102,Path of Wild Magic,Barbarian,6
+103,The Fathomless,Warlock,7
+104,Order of Scribes,Wizard,2
+105,Soul Knife,Rogue,1
+106,Nature Domain,Cleric,22
+107,Order of the Lycan,Blood Hunter,3
+108,Divine Soul,Sorcerer,84
+109,Order of the Mutant,Blood Hunter,1
+110,Rune Knight,Fighter,6
+111,Echo Knight,Fighter,12
+112,Storm Herald,Barbarian,1
+113,Hunter Conclave,Revised Ranger,6
+114,Revised Circle of the Shepherd,Druid,2
+115,Sea,Sorcerer,2
+116,Revised Favored Soul,Sorcerer,2
+117,War Magic,Wizard,32
+118,Peace Domain,Cleric,6
+119,College of Creation,Bard,4
+120,Theurgy Wizard,Wizard,1
+121,Revised Oath of Conquest,Paladin,1
+122,Beast Conclave,Revised Ranger,11
+123,Lightning Adept,Fighter,3
+124,Juggernaut,Fighter,5
+125,shieldman,Fighter,1
+126,Oath of Treachery,Paladin,1
+127,Phoenix Sorcery1,Sorcerer,1
+128,gunslinger,Fighter,3
+129,School of Invention,Wizard,1
+130,Way of the Astral Self,Monk,2
+131,Bladesinging,Wizard,24
+132,Circle of Stars,Druid,8
+133,Deep Stalker Conclave,Revised Ranger,3
+134,Order Domain,Cleric,9
+135,Oath of Death,Paladin,6
+136,Circle of Wildfire,Druid,6
+137,Phantom,Rogue,4
+138,Oath of the Watchers,Paladin,3
+139,Psi Warrior,Fighter,1
+140,College of Spirits,Bard,1
+141,Twilight Domain,Cleric,10
+142,Vandal,Rogue,1
+143,Revised Ancestral Guardian,Barbarian,1
+144,Dark Carnival College,Battle Clown,1
+145,Fey Wanderer,Ranger,3
+146,Theurgy,Wizard,1
+147,Way of Mercy,Monk,2
+148,Oath of Glory,Paladin,2
+149,Swarmkeeper,Ranger,1
+150,The Genie,Warlock,7
+151,Clockwork Soul,Sorcerer,1
+152,Metal,Sorcerer,6
+153,Order of the Nomad,Mystic,2
+154,Oath of Free Commerce,Paladin,1
+155,Way of Tranquility,Monk,1
+156,Circle of the Elements,Druid,1
+157,Stone,Sorcerer,2
+158,Genie Patron,Artificer,1
